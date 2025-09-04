@@ -1,4 +1,4 @@
-# Lovable Zero to Ship in 5 Days — The Holy Grail
+# Vibe Coding Zero to Ship in 5 Days — The Holy Grail
 
 *A simple, story-style path from idea to live app (with copy-paste prompts).*
 
